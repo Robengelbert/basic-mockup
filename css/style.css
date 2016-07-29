@@ -89,7 +89,7 @@ h1{
 	float: right;
 }
 .clear{
-	background-color: #00c5d6;
+	background-color: rgb(135, 206, 250);
 	padding:10px 12px 5px 12px;
 	margin-bottom: 20px;
 }
